@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "VR_survey_proj_Course_related",
+"productVersion": "0.1",
+"dataUrl": "Web_Build0927.data.unityweb",
+"wasmCodeUrl": "Web_Build0927.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web_Build0927.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}

@@ -1,0 +1,16 @@
+﻿body{
+
+}
+.NTUCE {
+    width: 50%;
+    height: 163px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+}
+.test {
+    width: 50%;
+    height: 163px;
+    float: left;
+}
